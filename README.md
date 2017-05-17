@@ -1,2 +1,2 @@
 # re-maps
-Non-official map dump for Red Eclipse
+Non-official map dump for my Red Eclipse maps
